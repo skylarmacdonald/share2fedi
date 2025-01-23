@@ -151,7 +151,7 @@ projects.
 ### Translations
 
 Share₂Fedi uses Hosted Weblate for translations.
-[You can edit translations using it's practical interface.](https://hosted.weblate.org/engage/share2fedi/).
+[You can edit translations using its practical interface.](https://hosted.weblate.org/engage/share2fedi/).
 You also could do it manually by editing files in `src/i18n/translations`, but
 this is NOT recommended.
 
